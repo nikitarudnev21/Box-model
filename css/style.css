@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    background-color: lightblue;
+}
+.main{
+    height: 600px;
+    width: 600px;
+    border:2px solid black;
+    border-radius: 5px;
+    margin: 0 auto;
+    background-color: gray;
+    margin-top: 200px;
+}
+.main div {
+    height: 200px;
+    width: 200px;
+    box-sizing: border-box;
+    border-radius: 5%;
+    font-size: 1.5rem;
+}
+.yellow {
+    background-color: yellowgreen;
+    border: 5px solid black;
+    padding: 1rem;
+
+    
+}
+.red {
+    background-color: red;
+    border: 5px solid navy;
+    text-align: center;
+    padding: 1rem;
+    margin-left: 200px;
+}
+.navy {
+    background-color: navy;
+    border: 5px solid red;
+    color: bisque;
+    text-align: right;
+    padding-right: 1rem;
+    margin-left: 400px;
+}
